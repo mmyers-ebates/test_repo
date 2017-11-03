@@ -42,4 +42,16 @@ public class TenHelloWorlds {
 
     }
 
+    public static void tacos_rule() {
+        String tacos = "they rule.";
+        System.out.println(tacos);
+
+    }
+
+    public static void tacos_are_not_that_great() {
+        Strings tacos_meh = "they are ok.";
+        System.out.println(tacos_meh):
+
+    }
+
 }
