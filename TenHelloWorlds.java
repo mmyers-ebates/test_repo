@@ -33,5 +33,7 @@ public class TenHelloWorlds {
         System.out.println("Hello, World");
         System.out.println("Hello, World");
     }
-
+    public static void iamcool() {
+        System.out.println("I am super duper cool, waaay cooler than Marcus");
+    }
 }
